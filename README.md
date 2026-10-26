@@ -1,4 +1,5 @@
 # Project_2_Hi-Five
+## https://github.com/niradaa-art/Project_2_Hi-Five/blob/main/final-MiniProject_Part2_BigData_Hi_Five.ipynb
 NYC 311 Service Requests - Resolution Time Prediction Dashboard
 โปรเจกต์วิเคราะห์ข้อมูลขนาดใหญ่ (Big Data Analytics) และสร้างโมเดล Machine Learning เพื่อคาดการณ์ระยะเวลาในการปิดเรื่องร้องเรียน (resolution_time) ของระบบ NYC 311 ในนครนิวยอร์ก ประจำปี 2025 โดยกลุ่ม Hi-Five
 
